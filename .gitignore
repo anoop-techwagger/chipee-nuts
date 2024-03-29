@@ -3,7 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
-.htaccess
+
 .env
 .env.backup
 .phpunit.result.cache
@@ -15,3 +15,4 @@ yarn-error.log
 /Modules/Gateways
 /storage/install.zip
 /storage/update.zip
+.htaccess
